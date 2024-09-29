@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096883845263",
+    "project_id": "fir-ai-dee9e",
+    "storage_bucket": "fir-ai-dee9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096883845263:android:0b6a5334bea77d9af798fa",
+        "android_client_info": {
+          "package_name": "com.saikothouse.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqAIJlZIscITts3V0qqVF1Gu7tfREJAVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
